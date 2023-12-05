@@ -10,5 +10,5 @@ document.querySelector(".btn.btn-secondary").addEventListener("click", function(
   setInterval(() => {
     document.querySelector(".wrapper").style.display = "block"
     document.querySelector("#loading").style.display = "none"
-   },20000)
+   },5000)
 })
