@@ -1,0 +1,21 @@
+html{
+ overflow-x:hidden;
+ overflow-y:scroll;
+}
+
+.wrapper{
+  width:70%;
+  height:auto;
+  border:1px solid lightgray;
+  margin:15px;
+  padding:15px;
+}
+
+img{
+ width:100%;
+}
+
+#webpage{
+  display:flex;
+  justify-content:center;
+}
